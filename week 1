@@ -1,0 +1,19 @@
+# Week 1: AWS and Linux Basics
+
+## ✅ Topics Covered
+- Introduction to Linux
+- Common Linux commands (cd, ls, mkdir, touch, etc.)
+- EC2 Instances
+  - How to launch an EC2 instance
+  - Security Groups
+  - SSH into EC2
+  - Stop, start, terminate
+
+## 🔐 Security Notes
+- Always open only required ports (like 22 for SSH)
+- Avoid using root unless necessary
+
+## 🖥️ Hands-On Done
+- Launched Ubuntu instance
+- Connected via SSH
+- Explored file system and permissions
